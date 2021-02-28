@@ -1,5 +1,6 @@
-# grom
-Custom bass guitar for zero squad
+# Hybrid
+
+Custom headless bass guitar design with MIDI pickups
 
 ![concept](./design/main-concept.png)
 
