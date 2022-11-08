@@ -2,6 +2,10 @@
 
 Custom headless bass guitar design with MIDI pickups
 
-![concept](./design/main-concept.png)
+![concept](./design/hybrid.png)
 
-![concept](./design/concept01.png)
+Based on Boden 5 prog headless bass
+
+![overlay](./design/boden-overlay.jpg)
+
+![measures](./design/boden-measures.png)
