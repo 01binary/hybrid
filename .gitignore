@@ -10,6 +10,9 @@
 # Inventor restore files
 OldVersions/
 
+# MacOS thumbnails
+.DS_Store
+
 # User-specific files
 *.suo
 *.user
